@@ -1,0 +1,11 @@
+/* un padding de 32 px ;
+
+du texte blanc ;
+
+et un background-color à #31b572. */
+
+.lmj-cart{
+    padding: 32 px;
+    color: white;
+    background-color: #31b572;
+}
